@@ -1,4 +1,4 @@
-# ¡Hola! Soy Migg 👋
+# ¡Hola! Soy Miguel 👋
 
 Soy un desarrollador Fullstack Junior en formación, apasionado por crear soluciones reales con código limpio y eficiente.
 
