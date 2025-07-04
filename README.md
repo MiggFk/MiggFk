@@ -29,9 +29,8 @@ Soy un desarrollador Fullstack Junior en formación, apasionado por crear soluci
 
 ## 📂 Proyectos destacados
 
-- [MoneyStack App](https://github.com/miggfk/moneystack) - CRUD completo con Node.js, Express y MongoDB  
 - [Portafolio personal](https://github.com/miggfk/portfolio) - Mi web personal en HTML, CSS y JS  
-- [Clon de Netflix](https://github.com/miggfk/netflix-clone) - Proyecto para practicar diseño y JS  
+- [ShirlyRose](https://github.com/MiggFk/ShirlyRoseProyect) - Proyecto SENA
 
 ---
 
